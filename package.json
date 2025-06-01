@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Create by ✦☠︎𝕰𝖛𝖎𝖑 𝕹~𝕸~𝕷♫⃝✙",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --✦☠︎𝕰𝖛𝖎𝖑 𝕹~𝕸~𝕷♫⃝✙.",
+    "start": "pm2 start index.js --deep-monitoring --attach --name ✦☠︎𝕰𝖛𝖎𝖑 𝕹~𝕸~𝕷♫⃝✙.",
     "stop": "pm2 stop your bot name",
     "restart": "pm2 restart ✦☠︎𝕰𝖛𝖎𝖑 𝕹~𝕸~𝕷♫⃝✙."
   },
